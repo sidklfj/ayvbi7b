@@ -11,7 +11,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"62252678-bec9-4eee-9456-095aa59b2bd1",
+                        "id":"8228eb89-b3e0-46f2-9e33-edd87fa77979",
                         "flow":"xtls-rprx-vision"
                     }
                 ],
@@ -49,7 +49,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"62252678-bec9-4eee-9456-095aa59b2bd1"
+                        "id":"8228eb89-b3e0-46f2-9e33-edd87fa77979"
                     }
                 ],
                 "decryption":"none"
@@ -66,7 +66,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"62252678-bec9-4eee-9456-095aa59b2bd1",
+                        "id":"8228eb89-b3e0-46f2-9e33-edd87fa77979",
                         "level":0
                     }
                 ],
@@ -80,7 +80,7 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -96,7 +96,7 @@
             "settings":{
                 "clients":[
                     {
-                        "id":"62252678-bec9-4eee-9456-095aa59b2bd1",
+                        "id":"8228eb89-b3e0-46f2-9e33-edd87fa77979",
                         "alterId":0
                     }
                 ]
@@ -108,7 +108,7 @@
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
